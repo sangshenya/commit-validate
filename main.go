@@ -12,6 +12,6 @@ func main() {
 		b = append(b, s)
 	}
 	fmt.Println(b[0])
-	// fbasfjqwlhefqwlefhbqhjewfgbejsfabgdhbgsdhffasfgbasdhgalsjfhajklsfhaqjskfghasjldghsdfbhsghkasdgksdghgasghdahskfgqkgqyhghka
-	//fmt.Println("fbasfjqwlhefqwlefhbqhjewfgbejsfabgdhbgsdhfgaskhgshagshdghsfghasfjaksgk", b[0])
+	// qjskfghasjldghsdfbhsghkasdgksdghgasghdahskfgqkgqyhghka
+	//fmt.Println("sfabgdhbgsdhfgaskhgshagshdghsfghasfjaksgk", b[0])
 }
